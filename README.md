@@ -13,7 +13,7 @@ Main initiatives: learning, building projects, and doing LeetCode.
 - School Projects
   - [Full Stack Programming Course - ]()  
 
-_Have a loot at my pinned  repositories!_
+_Have a look at my pinned  repositories!_
 
 
 ### Certifications
