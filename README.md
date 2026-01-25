@@ -1,7 +1,6 @@
 ## Hi, I'm Pang! | Programmer 
 
 ****
-<!--
 Main initiatives: learning, building projects, and doing LeetCode.
 
 ### 👨‍💻 Software Development Projects:
@@ -14,9 +13,8 @@ Main initiatives: learning, building projects, and doing LeetCode.
 - School Projects
   - [Full Stack Programming Course - ]()  
 
-  _Have a loot at my pinned  repositories!_
+_Have a loot at my pinned  repositories!_
 
 
-  ### Certifications
-  - Elements of AI by MinnaLearn
-  - 
+### Certifications
+- Elements of AI by MinnaLearn
