@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Pang! | Programmer 
 
+****
 <!--
-**4us9/4us9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Main initiatives: learning, building projects, and doing LeetCode.
 
-Here are some ideas to get you started:
+### 👨‍💻 Software Development Projects:
+- Data Structures and Algorithms Practice
+  - [Practicing DSA](https://github.com/4us9/Technical-Interview-Prep)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Web Development Projects
+  - [HTTP Server]()
+
+- School Projects
+  - [Full Stack Programming Course - ]()  
+
+  _Have a loot at my pinned  repositories!_
+
+
+  ### Certifications
+  - Elements of AI by MinnaLearn
+  - 
