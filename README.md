@@ -3,7 +3,7 @@
 ## Hi, I'm Pang! | Programmer 
 
 ****
-Main initiatives: learning, building projects, and doing LeetCode.
+Main Initiatives: learning about AI and software development; building projects; doing LeetCode
 
 ### My Way of Life as a Programmer:
 > “What I cannot create, I do not understand.” - Feynman
