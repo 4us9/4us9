@@ -13,10 +13,7 @@ Main Initiatives: learning about AI and software development; building projects;
   - [Practicing DSA](https://github.com/4us9/Technical-Interview-Prep)
 
 - **Web Development Projects**
-  - [HTTP Server]()
-
-- **School Projects**
-  - [Full Stack Programming Course - ]()  
+  - Business Website for Client [Link](https://github.com/4us9/drpang-website)
 
 _Have a look at my pinned  repositories!_
 
