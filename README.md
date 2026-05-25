@@ -9,8 +9,8 @@ Main Initiatives: learning about AI and software development; building projects;
 > “What I cannot create, I do not understand.” - Feynman
 
 ### ⚙️ Machine Learning Projects:
-- **DNA Sequence Classifier**
-  - [DNA Sequence Classifier](https://github.com/4us9/dna-seq-classifier)
+- **DNA Promoter Sequence Classifier**
+  - [DNA Promoter Sequence Classifier](https://github.com/4us9/dna-seq-classifier)
 
 ### 👨‍💻 Software Development Projects:
 - **Landing Page**
