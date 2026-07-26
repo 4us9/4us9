@@ -2,8 +2,6 @@
 
 ## Hi, I'm Pang! | 4th Year CS Student | Programmer
 
-[![GitHub Streak](https://demolab.com)](https://git.io/streak-stats)
-
 ****
 I am a fourth-year Computer Science student. My main initiatives are: learning about AI and software development, building projects, doing LeetCode
 
