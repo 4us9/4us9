@@ -2,10 +2,12 @@
 
 ## Hi, I'm Pang! | 4th Year CS Student | Programmer | Builder
 
+☁️🤖 Cloud engineer by day, builder by night. 
+
 ****
 I'm a builder at heart. When I hear someone say product, I am all ears.
 
-*I additionally have a strong interest in cloud engineering.*
+*I additionally have a strong interest in cloud engineering.* 
 
 I am ALL IN on building. When someone mentions Pang, their immediate thought should be, "Ah, a fellow builder."
 
@@ -13,7 +15,7 @@ I am ALL IN on building. When someone mentions Pang, their immediate thought sho
 > “What I cannot create, I do not understand.” - Feynman
 
 ### ⚙️ Builder's Stack:
-**Languages:** Python, Swift, FastAPI \ 
+**Languages:** Python, Swift, FastAPI 
 
 **Frameworks & Libraries:** LangChain (agent build), LangGraph, Google ADK 
 
