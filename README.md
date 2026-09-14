@@ -14,14 +14,57 @@ I am ALL IN on building. When someone mentions Pang, their immediate thought sho
 ### ㊩ My Way of Life as a Programmer:
 > “What I cannot create, I do not understand.” - Feynman
 
-### ⚙️ Builder's Stack:
-**Languages:** Python, Swift, FastAPI 
+### ⚙️ Builder's Stack
 
-**Frameworks & Libraries:** LangChain (agent build), LangGraph, Google ADK 
+**Languages**
+- TypeScript
+- Python
+- SQL
+- Swift / SwiftUI
 
-**Tools & Infrastructure:** Docker, Git, Linux/Unix environments 
+**Web**
+- React
+- Next.js
+- Tailwind CSS
 
-**Digital Creative Tools:** Figma, DaVinci Resolve
+**Mobile**
+- React Native
+- Expo
+- Expo Router
+- Expo EAS
+
+**Backend & Data**
+- FastAPI
+- PostgreSQL
+- Supabase
+
+**AI & Agents**
+- OpenAI
+- Anthropic
+- Gemini
+- OpenAI Agents SDK
+- Google ADK
+- LangGraph
+- RAG
+- Tool Calling
+- Structured Outputs
+- Embeddings
+- pgvector
+
+**Infrastructure & Deployment**
+- Git / GitHub
+- Docker
+- Linux / Unix
+- REST APIs
+- CI/CD
+- Vercel
+- AWS
+
+**Product & Design**
+- Figma
+- UI/UX
+- Prototyping
+- Product Design
 
 ****
 _Have a look at my pinned  repositories!_
