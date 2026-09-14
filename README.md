@@ -13,8 +13,10 @@ I am ALL IN on building. When someone mentions Pang, their immediate thought sho
 > “What I cannot create, I do not understand.” - Feynman
 
 ### ⚙️ Builder's Stack:
-Languages: Python, Swift, FastAPI
-Frameworks & Libraries: LangChain (agent build), LangGraph, Google ADK
+**Languages:** Python, Swift, FastAPI
+**Frameworks & Libraries:** LangChain (agent build), LangGraph, Google ADK
 Tools & Infrastructure: Docker, Git, Linux/Unix environments
+**Digital Creative Tools:** Figma, DaVinci Resolve
 
+****
 _Have a look at my pinned  repositories!_
