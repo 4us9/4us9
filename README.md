@@ -15,9 +15,9 @@ I am ALL IN on building. When someone mentions Pang, their immediate thought sho
 ### ⚙️ Builder's Stack:
 **Languages:** Python, Swift, FastAPI \ 
 
-**Frameworks & Libraries:** LangChain (agent build), LangGraph, Google ADK \ 
+**Frameworks & Libraries:** LangChain (agent build), LangGraph, Google ADK 
 
-**Tools & Infrastructure:** Docker, Git, Linux/Unix environments \
+**Tools & Infrastructure:** Docker, Git, Linux/Unix environments 
 
 **Digital Creative Tools:** Figma, DaVinci Resolve
 
