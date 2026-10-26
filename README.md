@@ -9,12 +9,15 @@ I'm a builder at heart. When I hear someone say product, I am all ears.
 
 When someone mentions my name, their first thought should be, "Ah, a fellow builder."
 
-Stay tuned, more projects will be up on my GitHub😎
-
 https://www.austinpang.com
 
 ### 👨‍💻 My Way of Life as a Programmer:
 > “What I cannot create, I do not understand.” - Feynman
+> Consider the question/problem first. Whether the tool is new or old, that is another question. 
+> Learning is finding errors in code; go do the unknown..
+> Programs are to debug and test.   
+> Hypothesizing about code & write code with the assumption that the systems will break.
+> Objective measurements, such as with benchmarking (ex: py-spy, pprof, Chrome DevTools).
 
 ### ⚙️ Builder's Stack
 
