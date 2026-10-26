@@ -2,14 +2,17 @@
 
 ☁️🤖 Cloud engineer by day, builder by night. 
 
+I design and secure multi-agent AI systems that automate software engineering and cybersecurity workflows—orchestration, tool integration, cloud security, and human oversight.
+
 ****
 I'm a builder at heart. When I hear someone say product, I am all ears.
-
-*I additionally have a strong interest in AI and cloud engineering.* 
 
 When someone mentions my name, their first thought should be, "Ah, a fellow builder."
 
 https://www.austinpang.com
+
+**** 
+Interested in AI, cybersecurity, cloud engineering, and software engineering. 
 
 ### 👨‍💻 My Way of Life as a Programmer:
 > “What I cannot create, I do not understand.” - Feynman
