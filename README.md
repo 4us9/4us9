@@ -11,8 +11,7 @@ When someone mentions my name, their first thought should be, "Ah, a fellow buil
 
 https://www.austinpang.com
 
-**** 
-Interested in AI, cybersecurity, cloud engineering, and software engineering. 
+****  
 
 ### 👨‍💻 My Way of Life as a Programmer:
 > “What I cannot create, I do not understand.” - Feynman
