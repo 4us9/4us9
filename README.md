@@ -19,7 +19,7 @@ https://www.austinpang.com
 
 > Consider the question/problem first. Whether the tool is new or old, that is another question.
 
-> Learning is finding errors in code; go do the unknown..
+> Learning is finding errors in code; go to the unknown..
 
 > Programs are to debug and test.   
 
