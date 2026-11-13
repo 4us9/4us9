@@ -1,83 +1,191 @@
-## Hi, I'm Pang! | 4th Year CS Student | Builder
+<div align="center">
 
-☁️🤖 Cloud engineer by day, builder by night. 
+# Austin Pang
 
-I design and secure multi-agent AI systems that automate software engineering and cybersecurity workflows—orchestration, tool integration, cloud security, and human oversight.
+### **Platform Engineer • AI Infrastructure • Agentic Systems**
 
-****
-I'm a builder at heart. When I hear someone say product, I am all ears.
+`DevOps` • `Platform Engineering` • `MLOps` • `LLMOps` • `GenAI` • `AI Agents` • `MCP` • `AI Infrastructure`
 
-When someone mentions my name, their first thought should be, "Ah, a fellow builder."
+### *Building Cloud Platforms, AI Infrastructure & Agentic Systems.*
 
-https://www.austinpang.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/austinpang9/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/4us9)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=flat-square&logo=vercel&logoColor=white)](https://austinpang.com)
 
-****  
+</div>
 
-### 👨‍💻 My Way of Life as a Programmer:
-> “What I cannot create, I do not understand.” - Feynman
+---
 
+# 👋 About Me
 
-> Consider the question/problem first. Whether the tool is new or old, that is another question.
+I build scalable cloud platforms, AI infrastructure, Internal Developer Platforms (IDPs), and Agentic AI systems that help engineering teams build, deploy, and operate applications faster.
 
-> Learning is finding errors in code; go to the unknown..
+My interests span modern Platform Engineering, Cloud Native technologies, DevOps Automation, MLOps, LLMOps, Generative AI, AI Agents, Model Context Protocol (MCP), AI Automation, and Developer Experience.
 
-> Programs are to debug and test.   
+I enjoy building open-source tools, automation frameworks, production-ready AI platforms, and educational resources that simplify complex engineering problems.
 
-> Hypothesizing about code & write code with the assumption that the systems will break.
+---
 
-> Objective measurements, such as with benchmarking (ex: py-spy, pprof, Chrome DevTools).
+# 📊 GitHub Statistics
 
-### ⚙️ Builder's Stack
+<div align="center">
 
-**Languages**
-- TypeScript
-- Python
-- SQL
-- Swift / SwiftUI
+<table>
+<tr>
+<td align="center">
 
-**Web**
-- React
-- Next.js
-- Tailwind CSS
+<a href="https://github-stats-extended.vercel.app/api?username=4us9&rank_icon=github&show_icons=true&include_all_commits=true&theme=transparent">
+<img src="https://github-stats-extended.vercel.app/api?username=4us9&rank_icon=github&show_icons=true&include_all_commits=true&theme=transparent" width="100%" />
+</a>
 
-**Mobile**
-- React Native
-- Expo
-- Expo Router
-- Expo EAS
+</td>
 
-**Backend & Data**
-- FastAPI
-- PostgreSQL
-- Supabase
+<td align="center">
 
-**AI & Agents**
-- OpenAI
-- Anthropic
-- Gemini
-- OpenAI Agents SDK
-- Google ADK
-- LangGraph
-- RAG
-- Tool Calling
-- Structured Outputs
-- Embeddings
-- pgvector
+<a href="https://github-stats-extended.vercel.app/api/top-langs?username=4us9&layout=compact&langs_count=4&hide_values=true&theme=transparent">
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=4us9&layout=compact&langs_count=4&hide_values=true&theme=transparent" width="100%" />
+</a>
 
-**Infrastructure & Deployment**
-- Git / GitHub
-- Docker
-- Linux / Unix
-- REST APIs
-- CI/CD
-- Vercel
-- AWS
+</td>
+</tr>
+<tr>
+<td align="center">
 
-**Product & Design**
-- Figma
-- UI/UX
-- Prototyping
-- Product Design
+</td>
 
-****
-_Have a look at my pinned  repositories!_
+<td align="center">
+
+<a href="https://gist.github.com/4us9/854ed5c12fff07acde88faf95b9decff">
+<img src="https://github-stats-extended.vercel.app/api/gist?id=854ed5c12fff07acde88faf95b9decff&show_owner=true&theme=transparent" width="100%" />
+</a>
+
+</td>
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# ⚡ Tech Stack
+
+<div align="center">
+
+<img src="https://imgur.com/RknLHXQ.png" alt="tech" width="800px">
+
+## ☁️ Cloud
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+## 🚀 DevOps & Platform
+
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-%232C5263.svg?style=for-the-badge&logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLabCI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+
+## 📊 Observability
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+
+## 🤖 AI & MLOps
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+
+</div>
+
+---
+
+# 🧠 Current Focus
+
+<table>
+  <tr>
+    <td>Platform Engineering</td>
+    <td>Internal Developer Platforms (IDP)</td>
+    <td>DevOps Automation</td>
+  </tr>
+  <tr>
+    <td>Cloud Native Infrastructure</td>
+    <td>Kubernetes</td>
+    <td>GitOps</td>
+  </tr>
+  <tr>
+    <td>MLOps</td>
+    <td>LLMOps</td>
+    <td>AI Infrastructure</td>
+  </tr>
+  <tr>
+    <td>Generative AI</td>
+    <td>AI Agents</td>
+    <td>Agentic AI Systems</td>
+  </tr>
+  <tr>
+    <td>Multi-Agent Architectures</td>
+    <td>Model Context Protocol (MCP)</td>
+    <td>Agent2Agent (A2A)</td>
+  </tr>
+  <tr>
+    <td>LangGraph</td>
+    <td>LangChain</td>
+    <td>Google ADK</td>
+  </tr>
+  <tr>
+    <td>Context Engineering</td>
+    <td>Prompt Engineering</td>
+    <td>Retrieval-Augmented Generation (RAG)</td>
+  </tr>
+  <tr>
+    <td>AI Automation</td>
+    <td>Developer Experience (DevEx)</td>
+    <td></td>
+  </tr>
+</table>
+---
+
+# 🚀 Areas of Expertise
+
+<table>
+  <tr>
+    <td>☁️ Cloud Infrastructure</td>
+    <td>☸️ Kubernetes</td>
+    <td>⚙️ DevOps Engineering</td>
+    <td>🏗️ Platform Engineering</td>
+  </tr>
+  <tr>
+    <td>🛠️ Internal Developer Platforms</td>
+    <td>🚀 GitOps</td>
+    <td>📊 Observability</td>
+    <td>🤖 AI Infrastructure</td>
+  </tr>
+  <tr>
+    <td>🧠 Generative AI</td>
+    <td>🤖 AI Agents</td>
+    <td>🕸️ Agentic AI Systems</td>
+    <td>🔗 Model Context Protocol (MCP)</td>
+  </tr>
+  <tr>
+    <td>🤝 Agent2Agent (A2A)</td>
+    <td>📚 MLOps</td>
+    <td>🧩 LLMOps</td>
+    <td>🔍 RAG</td>
+  </tr>
+  <tr>
+    <td>💬 Prompt Engineering</td>
+    <td>🧠 Context Engineering</td>
+    <td>⚡ AI Automation</td>
+    
+  </tr>
+</table>
+
+---
+</div>
