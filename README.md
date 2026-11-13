@@ -51,15 +51,6 @@ I enjoy building open-source tools, automation frameworks, production-ready AI p
 <tr>
 <td align="center">
 
-</td>
-
-<td align="center">
-
-<a href="https://gist.github.com/4us9/854ed5c12fff07acde88faf95b9decff">
-<img src="https://github-stats-extended.vercel.app/api/gist?id=854ed5c12fff07acde88faf95b9decff&show_owner=true&theme=transparent" width="100%" />
-</a>
-
-</td>
 </tr>
 
 </table>
