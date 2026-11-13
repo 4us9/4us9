@@ -63,7 +63,7 @@ I enjoy building open-source tools, automation frameworks, production-ready AI p
 
 <div align="center">
 
-<img src="https://imgur.com/RknLHXQ.png" alt="tech" width="800px">
+<img src="https://i.imgur.com/743QV9H.jpeg" alt="tech" width="800px">
 
 ## ☁️ Cloud
 
