@@ -142,5 +142,3 @@ I enjoy building open-source tools, automation frameworks, production-ready AI p
 
 </div>
 
----
-</div>
