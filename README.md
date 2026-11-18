@@ -18,9 +18,9 @@
 
 # 👋 About Me
 
-I build scalable cloud platforms, AI infrastructure, Internal Developer Platforms (IDPs), and Agentic AI systems that help engineering teams build, deploy, and operate applications faster.
+I build scalable cloud platforms, AI infrastructure, and Agentic AI systems.
 
-My interests span modern Platform Engineering, Cloud Native technologies, DevOps Automation, MLOps, LLMOps, Generative AI, AI Agents, Model Context Protocol (MCP), AI Automation, and Developer Experience.
+My interests span modern Platform Engineering, Cloud Native technologies, DevOps Automation, MLOps, LLMOps, Generative AI, AI Agents, Model Context Protocol (MCP), and AI Automation.
 
 I enjoy building open-source tools, automation frameworks, production-ready AI platforms, and educational resources that simplify complex engineering problems.
 
@@ -142,42 +142,7 @@ I enjoy building open-source tools, automation frameworks, production-ready AI p
   </tr>
 </table>
 
----
 
-# 🚀 Areas of Expertise
-
-<table>
-  <tr>
-    <td>☁️ Cloud Infrastructure</td>
-    <td>☸️ Kubernetes</td>
-    <td>⚙️ DevOps Engineering</td>
-    <td>🏗️ Platform Engineering</td>
-  </tr>
-  <tr>
-    <td>🛠️ Internal Developer Platforms</td>
-    <td>🚀 GitOps</td>
-    <td>📊 Observability</td>
-    <td>🤖 AI Infrastructure</td>
-  </tr>
-  <tr>
-    <td>🧠 Generative AI</td>
-    <td>🤖 AI Agents</td>
-    <td>🕸️ Agentic AI Systems</td>
-    <td>🔗 Model Context Protocol (MCP)</td>
-  </tr>
-  <tr>
-    <td>🤝 Agent2Agent (A2A)</td>
-    <td>📚 MLOps</td>
-    <td>🧩 LLMOps</td>
-    <td>🔍 RAG</td>
-  </tr>
-  <tr>
-    <td>💬 Prompt Engineering</td>
-    <td>🧠 Context Engineering</td>
-    <td>⚡ AI Automation</td>
-    
-  </tr>
-</table>
 
 ---
 </div>
