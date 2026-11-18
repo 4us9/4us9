@@ -2,9 +2,9 @@
 
 # Austin Pang
 
-### **Platform Engineer • AI Infrastructure • Agentic Systems**
+### **Agentic Systems • AI Infrastructure • Platform Engineer**
 
-`DevOps` • `Platform Engineering` • `MLOps` • `LLMOps` • `GenAI` • `AI Agents` • `MCP` • `AI Infrastructure`
+`MLOps` • `LLMOps` • `GenAI` • `AI Agents` • `MCP` • `AI Infrastructure` • `DevOps` • `Platform Engineering`
 
 ### *Building Cloud Platforms, AI Infrastructure & Agentic Systems.*
 
@@ -18,9 +18,9 @@
 
 # 👋 About Me
 
-I build scalable cloud platforms, AI infrastructure, and Agentic AI systems.
+I build scalable Agentic AI systems, cloud platforms, and AI infrastructure.
 
-My interests span modern Platform Engineering, Cloud Native technologies, DevOps Automation, MLOps, LLMOps, Generative AI, AI Agents, Model Context Protocol (MCP), and AI Automation.
+My interests span modern MLOps, LLMOps, Generative AI, AI Agents, Model Context Protocol (MCP), AI Automation, Platform Engineering, Cloud Native technologies, and DevOps Automation.
 
 I enjoy building open-source tools, automation frameworks, production-ready AI platforms, and educational resources that simplify complex engineering problems.
 
